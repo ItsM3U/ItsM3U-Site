@@ -1,0 +1,81 @@
+{
+  "about": {
+    "description": "Hello there, I’m M3U. I'am a programmer and game developer/designer who enjoys building tools, systems, and games from the ground up.</br></br>I’ve been programming since I was 12. Over time, I got into game engines, low-level logic, and designing things from scratch — not just using tools, but understanding and creating them.</br></br>I’ve worked with languages like C, C++, C#, Python, JavaScript, Java, and Lua,</br></br>and used tools and libraries like SFML, SDL2, OpenGL, Unity, TensorFlow, Godot, ImGui, GLFW, PyGame, NumPy, Matplotlib, and Keras.</br></br>I code because I enjoy it. I like creating something out of nothing, experimenting freely, and building systems that match how I think."
+  },
+  "projects": {
+    "content": [
+      {
+        "name": "Beat'em Up",
+        "description": "A 2D top-down action shooter. Inspired by Hotline-Miami. Features firearms, melees, interactions and fast-paced gameplay.",
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "name": "Za Mig",
+        "description": "A 48-hour game jam project set in 1962, where you play as a Soviet agent infiltrating a U.S. base during the Cold War. Features fast-paced gameplay, real-time shooting mechanics, and retro visuals. Built for Windows and macOS with custom music and SFX.",
+        "link": "https://itsm3u.itch.io/za-mig"
+      },
+      {
+        "name": "Via City",
+        "description": "An open-world criminal game developed in Roblox set on an island where you can buy or find weapons, beat people up, steal cars, find youself in intense shootouts, explore the map, and do robberies.",
+        "link": "https://www.roblox.com/games/18621953283/Via-City"
+      },
+      {
+        "name": "Bullet [CANCELED]",
+        "description": "A fighting game developed in Roblox where you spawn in a map with your gun and try to eliminate other players in a certain time to be the last one standing.",
+        "link": "https://www.roblox.com/games/17320164358/Bullet-CANCELED"
+      },
+      {
+        "name": "Java Game Framework",
+        "description": "A lightweight Java-based framework for 2D games, featuring real-time input handling and pixel-perfect rendering.",
+        "link": "https://github.com/ItsM3U/Java-Game-Framework"
+      },
+      {
+        "name": "SFML Raycaster",
+        "description": "A C++ project using SFML to implement classic raycasting as seen in Wolfenstein 3D. Simulates pseudo-3D on 2D grids with efficient rendering, modern input handling, and customizable levels.",
+        "link": "https://github.com/ItsM3U/SFML-Raycaster"
+      },
+      {
+        "name": "SDL2 Framework",
+        "description": "A lightweight framework for 2D games, built in C with SDL2. Enables rapid prototyping with real-time input handling and pixel-level rendering.",
+        "link": "https://github.com/ItsM3U/SDL2-Game-Framework"
+      },
+      {
+        "name": "Island Generation",
+        "description": "A Pygame application utilizing Perlin noise for procedural island generation. Supports camera movement, zooming, and terrain regeneration.",
+        "link": "https://github.com/ItsM3U/Island-Generation"
+      }
+    ]
+  },
+  "logs": {
+    "entries": [
+      {
+        "date": "[16/06/2025]",
+        "description": "Website published!"
+      }
+    ]
+  },
+  "vault": {
+    "items": [
+      {
+        "name": "[VAULT]",
+        "description": "Cool Website: ",
+        "link": {
+          "url": "https://www.itsm3u.com",
+          "label": "Visit Website"
+        }
+      },
+      {
+        "name": "[VAULT]",
+        "description": "Carrots and Seals are really cool."
+      },
+      {
+        "name": "[VAULT]",
+        "description": "This is a vault message."
+      },
+      {
+        "name": "[VAULT]",
+        "description": "How cool is this website?"
+      }
+    ]
+  }
+}
